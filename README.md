@@ -1,10 +1,5 @@
 # Process-Mining-over-Unordered-Stream---Replication
 
-![Current Version](https://img.shields.io/badge/version-v0.5-blue)
-![GitHub contributors](https://img.shields.io/github/contributors/abroniewski/Child-Wasting-Prediction)
-![GitHub stars](https://img.shields.io/github/stars/abroniewski/README-Template?style=social)
-![GitHub activity](https://img.shields.io/github/commit-activity/w/abroniewski/Child-Wasting-Prediction?logoColor=brightgreen)
-
 ## Getting Started
 
 This project has a stable branch called `main`.
