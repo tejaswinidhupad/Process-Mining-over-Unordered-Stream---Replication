@@ -17,7 +17,7 @@ The project follows the structure below:
 	└── data
 		├── simulated data
 		└── real-life data
-  ├── result
+        ├── result
 
 ```
 ## Tools Required
@@ -28,25 +28,12 @@ The project follows the structure below:
 ## Running the App
 
 1. Clone the project to a directory of your choice
-    ```bash
-    git clone https://github.com/abroniewski/Child-Wasting-Prediction.git
     ```
-2. Pipenv is used to manage dependencies. If you do not have pipenv installed, run the following:
-    ```bash
-    pip install pipx
-    pip install pipenv
+    gh repo clone tejaswinidhupad/Process-Mining-over-Unordered-Stream---Replication
     ```
-3. Install dependencies using the included pipfile. Run the following from the parent directory.
-    ```bash
-    pipenv install
-    pipenv run clean_notebook
-    ```
-3. Once all dependencies are installed, we can run the main file.
-    ```bash
-    python main.py
-    ```
+2. Run pom.xml file which contains all the required dependencies required for execution
+3. The dataset used for this study is present in the 'data' folder
 
-This will run the full data-preperation, model building and prediction generation using the data provided in [/data](https://github.com/abroniewski/Child-Wasting-Prediction.git/data).
 
 ### Tools Required
 
